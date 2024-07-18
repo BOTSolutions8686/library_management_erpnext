@@ -1,1 +1,7 @@
-# library_management_erpnext
+## Library Management
+
+Libray mangement app
+
+#### License
+
+mit
